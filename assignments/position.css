@@ -1,0 +1,14 @@
+.box1{
+    height: 40px;width: 100px;border: steelblue solid 5px;background-color: tomato;
+}
+.box3{
+    height: 40px;width: 100px;border: aqua solid 5px;background-color: green;
+}
+.box3{
+    height: 40px;width: 100px;
+    border: red solid 5px;
+    background-color: indigo;
+}
+.main{
+    height: 1000px;width: 1000px;background-color: lightcoral;
+}

@@ -1,0 +1,7 @@
+.team{
+    text-align: right;color: mediumslateblue;border-width: 10px;border-style: dashed;padding: 10px;outline-color: olive;
+}
+#second{
+    text-align: left;color: orange;border-style: double;border-bottom-left-radius: 1cm;border-top-left-radius: 1cm;border-width: 20px;
+border-bottom-right-radius: 1cm;border-top-right-radius: 1cm;font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
