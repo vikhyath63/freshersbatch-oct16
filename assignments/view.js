@@ -1,1 +1,1 @@
-window.print(hi)
+window.print(hi world)
